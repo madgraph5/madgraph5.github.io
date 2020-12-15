@@ -18,9 +18,9 @@ The development team of this effort comprises students, faculty and researchers 
  <table style="width:100%" class="center">
   <tr>
     <td><img src="_logos/logo-argonne.jpeg" alt="Argonne logo" class="inline" style="width:128px;height:128px;"></td>
-    <td><img src="_logos/logo-cern-blue.jpg" alt="CERN logo" class="inline" style="width:128px;height:128px;"></td>
+    <td><img src="_logos/logo-cern-blue.png" alt="CERN logo" class="inline" style="width:128px;height:128px;"></td>
     <td><img src="_logos/logo-PES.jpg" alt="PES logo" class="inline" style="width:128px;height:128px;"></td>
     <td><img src="_logos/logo-ucl.jpg" alt="UCL logo" class="inline" style="width:128px;height:128px;"></td>
-    <td><img src="_logos/logo-sussex.jpg" alt="U Sussex logo" class="inline" style="width:128px;height:128px;"></td>
+    <td><img src="_logos/logo-sussex.png" alt="U Sussex logo" class="inline" style="width:128px;height:128px;"></td>
   </tr>
 </table> 
