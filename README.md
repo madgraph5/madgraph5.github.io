@@ -17,7 +17,7 @@ The development team of this effort comprises students, faculty and researchers 
 
  <table style="width:100%" class="center">
   <tr>
-    <td><img src="https://github.com/madgraph5/madgraph5.github.io/blob/master/_logos/logo-ucl.jpg?raw=true" alt="UCL logo" style="width:128px;height:128px;"></td>
+    <td><img src="_logos/logo-ucl.jpg" alt="UCL logo" class="inline" style="width:128px;height:128px;"></td>
     <td><img src="https://madgraph5.github.io/_logos/logo-ucl.png" alt="UCL logo" style="height:128px;"></td>
   </tr>
 </table> 
