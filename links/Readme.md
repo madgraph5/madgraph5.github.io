@@ -1,9 +1,9 @@
 # Links
 
-## Madgraph5_aMC@NLO 
+### Madgraph5_aMC@NLO 
 - Home page: [https://launchpad.net/mg5amcnlo](https://launchpad.net/mg5amcnlo)
 
-## Madgraph5 GPU Development
+### Madgraph5 GPU Development
 
 - Mailing list: [madgraph5-gpu-development@cern.ch](mailto:madgraph5-gpu-development@cern.ch)
 - Bi-weekly developers meeting: [https://indico.cern.ch/category/12586/](https://indico.cern.ch/category/12586/)
