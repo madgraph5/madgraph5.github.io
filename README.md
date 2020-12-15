@@ -13,3 +13,11 @@ The development team of this effort comprises students, faculty and researchers 
 - PES University (IN)
 - University Catholique de Louvain (BE)
 - University of Sussex (UK)
+
+
+ <table style="width:100%" class="center">
+  <tr>
+    <td><img src="/_logos/logo-ucl.png" alt="UCL logo" style="width:128px;height:128px;"></td>
+    <td><img src="/_logos/logo-ucl.png" alt="UCL logo" style="height:128px;"></td>
+  </tr>
+</table> 
