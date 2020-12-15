@@ -1,4 +1,4 @@
-This web page contains information about a software engineering effort to port the [Madgraph5_aMC@NLO](https://launchpad.net/mg5amcnlo) Monte Carlo event generator onto GPUs. The main development goals of this effort are
+This web page contains information about a software engineering effort to port the [Madgraph5_aMC@NLO](https://launchpad.net/mg5amcnlo) Monte Carlo event generator onto GPUs. The main development goals are
 
 - Execution of physics event processes on GPU architectures
 - Optimisation of the existing CPU implementation, cross-fertilized from the GPU developments 
