@@ -1,1 +1,4 @@
 theme: jekyll-theme-midnight
+site:
+  title: Madgraph5_aMC@NLO for GPUs
+  description: R&D on software engineering for GPUs and heterogeneous workflow execution
