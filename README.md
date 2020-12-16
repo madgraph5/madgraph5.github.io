@@ -6,14 +6,9 @@ This web page contains information about a software engineering effort to port t
 - Implementations in various GPU programming languages and hardware abstraction layers
 - Merge developments into the upstream Madgraph5_aMC@NLO code generator 
 
-The development team of this effort comprises students, faculty and researchers at various institutes and universities (see also <a href="https://github.com/orgs/madgraph5/people" target="_blank">Development Team</a>)
+The <a href="https://github.com/orgs/madgraph5/people" target="_blank">development team</a> of this effort comprises students, faculty and researchers at various institutes and universities
 
-- Argonne National Lab (US)
-- CERN (CH)
-- PES University (IN)
-- University Catholique de Louvain (BE)
-- University of Sussex (UK)
-
+Want to get in touch? Please contact us at 
 
  <table style="width:100%;background-color:#FFFFFF" class="center">
   <tr>
