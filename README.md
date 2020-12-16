@@ -15,7 +15,7 @@ The development team of this effort comprises students, faculty and researchers 
 - University of Sussex (UK)
 
 
- <table style="width:100%" class="center">
+ <table style="width:100%;background-color:#FFFFFF" class="center">
   <tr>
     <td><img src="images/logos/logo-argonne.jpeg" alt="Argonne logo" class="inline" style="width:128px;height:128px;"></td>
     <td><img src="images/logos/logo-cern-blue-outline.png" alt="CERN logo" class="inline" style="width:128px;height:128px;"></td>
