@@ -17,10 +17,10 @@ The development team of this effort comprises students, faculty and researchers 
 
  <table style="width:100%" class="center">
   <tr>
-    <td><img src="_logos/logo-argonne.jpeg" alt="Argonne logo" class="inline" style="width:128px;height:128px;"></td>
-    <td><img src="_logos/logo-cern-blue-outline.png" alt="CERN logo" class="inline" style="width:128px;height:128px;"></td>
-    <td><img src="_logos/logo-pes.jpg" alt="PES logo" class="inline" style="width:128px;height:128px;"></td>
-    <td><img src="_logos/logo-ucl.jpg" alt="UCL logo" class="inline" style="width:128px;height:128px;"></td>
-    <td><img src="_logos/logo-sussex.png" alt="U Sussex logo" class="inline" style="width:128px;height:128px;"></td>
+    <td><img src="images/logos/logo-argonne.jpeg" alt="Argonne logo" class="inline" style="width:128px;height:128px;"></td>
+    <td><img src="images/logos/logo-cern-blue-outline.png" alt="CERN logo" class="inline" style="width:128px;height:128px;"></td>
+    <td><img src="images/logos/logo-pes.jpg" alt="PES logo" class="inline" style="width:128px;height:128px;"></td>
+    <td><img src="images/logos/logo-ucl.jpg" alt="UCL logo" class="inline" style="width:128px;height:128px;"></td>
+    <td><img src="images/logos/logo-sussex.png" alt="U Sussex logo" class="inline" style="width:128px;height:128px;"></td>
   </tr>
 </table> 
