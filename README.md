@@ -8,7 +8,7 @@ This web page contains information about a software engineering effort to port t
 
 The <a href="https://github.com/orgs/madgraph5/people" target="_blank">development team</a> of this effort comprises students, faculty and researchers at various institutes and universities
 
-Want to get in touch? Please contact us at 
+Want to get in touch? Please contact us at [madgraph5-gpu-development@cern.ch](mailto:madgraph5-gpu-development@cern.ch)
 
  <table style="width:100%;background-color:#FFFFFF" class="center">
   <tr>
