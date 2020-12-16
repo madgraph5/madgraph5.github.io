@@ -12,10 +12,10 @@ Want to get in touch? Please contact us at [madgraph5-gpu-development@cern.ch](m
 
  <table style="width:100%;background-color:#FFFFFF" class="center">
   <tr>
-    <td><img src="images/logos/logo-argonne.jpeg" alt="Argonne logo" class="inline" style="width:139px;height:128px;"></td>
-    <td><img src="images/logos/logo-pes.jpg" alt="PES logo" class="inline" style="width:232px;height:128px;"></td>
-    <td><img src="images/logos/logo-cern-blue-outline.png" alt="CERN logo" class="inline" style="width:128px;height:128px;"></td>
-    <td><img src="images/logos/logo-ucl.jpg" alt="UCL logo" class="inline" style="width:171px;height:128px;"></td>
-    <td><img src="images/logos/logo-sussex.png" alt="U Sussex logo" class="inline" style="width128px;height:128px;"></td>
+    <td><img src="images/logos/logo-argonne.jpeg" alt="Argonne logo" class="inline" style="width:70px;height:64px;"></td>
+    <td><img src="images/logos/logo-pes.jpg" alt="PES logo" class="inline" style="width:116px;height:64px;"></td>
+    <td><img src="images/logos/logo-cern-blue-outline.png" alt="CERN logo" class="inline" style="width:64px;height:64px;"></td>
+    <td><img src="images/logos/logo-ucl.jpg" alt="UCL logo" class="inline" style="width:86px;height:64px;"></td>
+    <td><img src="images/logos/logo-sussex.png" alt="U Sussex logo" class="inline" style="width64px;height:64px;"></td>
   </tr>
 </table> 
